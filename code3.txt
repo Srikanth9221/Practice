@@ -1,0 +1,5 @@
+application program code is started
+..
+..
+application layer code has just began
+
